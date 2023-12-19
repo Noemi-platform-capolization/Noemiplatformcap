@@ -1,0 +1,1 @@
+{"version":"2.0","data":{"addressBook":{},"addedSafes":{},"settings":{"currency":"usd","tokenList":"TRUSTED","hiddenTokens":{},"shortName":{"show":true,"copy":true,"qr":true},"theme":{},"env":{"rpc":{},"tenderly":{"url":"","accessToken":""}},"signing":{"onChainSigning":false},"transactionExecution":true},"safeApps":{}}}
